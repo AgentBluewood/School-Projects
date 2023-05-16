@@ -1,0 +1,10 @@
+MobyDick HermanMelville CreateSpaceIndependentPublishingPlatform Novel 1851
+ComputerArchitecture JohnLHennessy MorganKaufmanPublishers TextBook 2017
+Hamlet WilliamShakespeare IndependentPublishers Novel 1600
+JurassicPark MichaelCrichton TurtlebackBooks ScienceFiction 1990
+TheAdventuresOfHuckleberryFinn MarkTwain CreateSpaceIndependentPublishingPlatform Novel 1884
+DataStructuresUsingC++ D.S.Malik CourseTechnologies TextBook 2010
+ToTheLighthouse VirginiaWoolf HarcourtBraceJovanovich Novel 1989
+Solaris  StanislawLem Mariner ScienceFiction 1961
+ProgrammingModelsForParallelComputing PavanBalaji MITPress TextBook 2015
+TheMartian AndyWeir ThorndikePress ScienceFiction 2015
