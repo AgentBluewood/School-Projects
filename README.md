@@ -7,3 +7,5 @@ Operating Systems Homeworks: Three homework assignments I completed for my opera
 Game Battle Project: Interactive game I made in my introducion to programming class in which users can participate in a simulated battle against another player or against the CPU.
 
 Algorithms Assignments: Various small homework assignments I completed via implementing algorithmic topics (backtracking, recursion, dynamic programming, etc). 
+
+Data Structures Programming Assignments: Various homework assignments that demonstrate the use of data structures (linked lists, stacks, graphs, etc).
